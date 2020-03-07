@@ -33,7 +33,12 @@ body {
 ol {
     text-align: left;
     margin-left: 22em;
+    
 }
+
+ul {
+    text-align: left;
+    margin-left: 22em;
 
 img {
     display: flex;
