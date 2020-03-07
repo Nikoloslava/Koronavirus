@@ -21,11 +21,11 @@ h1 {
 }
 
 h1 {
-    color: rgb(95, 102, 95)
+    color: rgb(167, 114, 53)
 
 }
 
-h1:hover {
-    transition: 0.6s ease;
-}
+body {
+    background-color: rgb(235, 224, 189);
+  }
 
