@@ -1,7 +1,7 @@
 
 body  {
     color: rgb (49,58,69);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
 }
 
@@ -38,7 +38,7 @@ ul {
 img {
     display: flex;
     padding: 20px;
-    margin: 2em;
+    margin: 0 auto;
     border-radius: 130px;
     width: 45em;
     height: 25em;
