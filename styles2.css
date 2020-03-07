@@ -6,10 +6,20 @@ body  {
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
+    margin-left: 13em;
 
 }
 
 p {
-    text-align: center;
+    text-align: left;
+    margin-left: 26em;
+    margin-top: 6em;
+}
+
+ul {
+    text-align: left;
+    font-size: smaller;
+    margin-left: 28em;
+
 }
