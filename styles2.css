@@ -13,11 +13,13 @@ h1 {
     color: rgb(167, 114, 53)
 }
 
-
+h2 {
+    text-align: left;
+    margin-left: 16em;
+}
 p {
     text-align: left;
     margin-left: 24em;
-    margin-top: 6em;
 }
 
 
