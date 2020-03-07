@@ -37,9 +37,16 @@ ul {
 
 img {
     display: flex;
-    padding: 20px;
+    padding-left: 25px;
     margin: 2em;
     border-radius: 130px;
     width: 45em;
-    height: 25em;
+    height: 25em
+
 }
+
+h3 {
+    text-align:center;
+}
+
+
