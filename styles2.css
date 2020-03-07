@@ -8,20 +8,12 @@ body  {
 h1 {
     text-align: center;
     text-decoration: underline;
+    font-size: 4em;
+    color: rgb(95, 102, 95)
 }
 
 p {
     text-align: center;
-}
-
-h1 {
-    font-size: 4em;
-
-}
-
-h1 {
-    color: rgb(95, 102, 95)
-
 }
 
 h1:hover {
