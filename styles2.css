@@ -30,6 +30,12 @@ h1:hover {
 body {
     background-color: rgb(253, 247, 229);
   }
+ol {
+    text-align: left;
+    margin-left: 22em;
+    
+}
+
 ul {
     text-align: left;
     margin-left: 22em;
