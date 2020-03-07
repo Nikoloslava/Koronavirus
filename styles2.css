@@ -1,7 +1,7 @@
 
 body  {
     color: rgb (49,58,69);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
 }
 
@@ -30,6 +30,12 @@ h1:hover {
 body {
     background-color: rgb(235, 224, 189);
   }
+ol {
+    text-align: left;
+    margin-left: 22em;
+    
+}
+
 ul {
     text-align: left;
     margin-left: 22em;
