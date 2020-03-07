@@ -34,3 +34,12 @@ ul {
     text-align: left;
     margin-left: 22em;
 }
+
+img {
+    display: flex;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 130px;
+    width: 43cm;
+    height: 27cm;
+}
