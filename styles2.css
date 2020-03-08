@@ -3,17 +3,17 @@ body  {
     color: rgb (49,58,69);
     margin: 0px ;
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
    /* background-color: rgb(255, 255, 255);*/
     background-image: url("background2.png");
     background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     text-align: center;
     text-decoration: underline;
     font-size: 6ch;
-    color: rgb(167, 114, 53);
+    color: rgb(88, 77, 64);
     font-family:monospace;
 }
 
@@ -100,6 +100,10 @@ strong::selection {
     color: #fff;
 }
 a::selection {
+    background: #ff2600;
+    color: #fff;
+}
+img::selection {
     background: #ff2600;
     color: #fff;
 }
