@@ -76,3 +76,28 @@ div {
     height: 100%;
 
 }
+
+p::selection {
+    background: #ff2600;
+    color: #fff;
+}
+li::selection {
+    background: #ff2600;
+    color: #fff;
+}
+h1::selection {
+    background: #ff2600;
+    color: #fff;
+}
+h2::selection {
+    background: #ff2600;
+    color: #fff;
+}
+strong::selection {
+    background: #ff2600;
+    color: #fff;
+}
+a::selection {
+    background: #ff2600;
+    color: #fff;
+}
