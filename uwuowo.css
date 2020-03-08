@@ -4,7 +4,8 @@ body  {
     margin: 0px ;
     text-align: center;
    /* background-color: rgb(255, 255, 255);*/
-    background-color: rgb(255, 234, 211);
+    background-image: url("background2.png") ;
+    background-size: cover;
 }
 
 h1 {
@@ -108,4 +109,8 @@ a::selection {
 
 .vanocka {
     color: red;
+}
+img::selection {
+    background: #ff2600;
+    color: #fff;
 }
