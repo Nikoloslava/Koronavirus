@@ -9,11 +9,11 @@ body  {
 }
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     text-decoration: underline;
-    font-size: 4ch;
-    color: rgb(167, 114, 53)
+    font-size: 6ch;
+    color: rgb(167, 114, 53);
+    font-family: monospace;
 }
 
 h2 {
