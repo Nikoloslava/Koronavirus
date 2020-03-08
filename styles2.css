@@ -2,25 +2,24 @@
 body  {
     color: rgb (49,58,69);
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0px;
-    background-color: rgb(255, 255, 255);
+    margin: 0px ;
+    text-align: center;
+   /* background-color: rgb(255, 255, 255);*/
+    background-color: rgb(255, 234, 211);
 }
 
 h1 {
     text-align: left;
-    margin-left: 6em;
     text-decoration: underline;
-    font-size: 4em;
+    font-size: 4ch;
     color: rgb(167, 114, 53)
 }
 
 h2 {
     text-align: left;
-    margin-left: 16em;
 }
 p {
     text-align: left;
-    margin-left: 24em;
 }
 
 
@@ -30,32 +29,31 @@ h1:hover {
 
 ol {
     text-align: left;
-    margin-left: 22em;
     
 }
 
 ul {
     text-align: left;
-    margin-left: 22em;
 }
 
 img {
-    display: inline-flex;
     padding-left: 0px;
     margin: 0em;
     border-radius: 130px;
     width: 45em;
-    height: 25em
+    height: 25em;
 }
 
 h3 {
     text-align:center;
 }
+/*
 div {
     display: left;
     width: 20em;
     background-color:lavenderblush ;
-}
+}*/
+/*
 .sidenav {
     height: 100%;
     width: 18em;
@@ -66,4 +64,14 @@ div {
     background-color: rgb(255, 234, 211);
     overflow-x: hidden;
     padding-top: 20px;
+}
+*/
+
+.sidenav {
+    width: 70vw;
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+    text-align: left;
+    padding: 3em;
+
 }
