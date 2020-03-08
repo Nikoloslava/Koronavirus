@@ -4,11 +4,13 @@ body  {
     margin: 0px ;
     text-align: center;
    /* background-color: rgb(255, 255, 255);*/
-    background-color: rgb(255, 234, 211);
+    background-image: url("background2.png") ;
+    background-size: cover;
 }
 
 h1 {
-    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
     text-decoration: underline;
     font-size: 4ch;
     color: rgb(167, 114, 53)

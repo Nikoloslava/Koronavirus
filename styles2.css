@@ -5,7 +5,8 @@ body  {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
    /* background-color: rgb(255, 255, 255);*/
-    background-color: rgb(255, 234, 211);
+    background-image: url("background2.png");
+    background-size: cover;
 }
 
 h1 {
