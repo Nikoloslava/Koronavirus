@@ -37,11 +37,11 @@ ul {
 }
 
 img {
-    padding-left: 0px;
+    display: left;
     margin: 0em;
     border-radius: 130px;
-    width: 45em;
-    height: 25em;
+    width: 55vw;
+    height: 30vw;
 }
 
 h3 {
