@@ -44,7 +44,7 @@ img {
 }
 
 h3 {
-    text-align:center;
+    text-align:left;
 }
 /*
 div {
@@ -89,6 +89,10 @@ h1::selection {
     color: #fff;
 }
 h2::selection {
+    background: #ff2600;
+    color: #fff;
+}
+h3::selection {
     background: #ff2600;
     color: #fff;
 }
