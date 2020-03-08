@@ -108,3 +108,7 @@ a::selection {
 .vanocka {
     color: red;
 }
+img::selection {
+    background: #ff2600;
+    color: #fff;
+}
