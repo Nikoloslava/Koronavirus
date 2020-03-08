@@ -39,9 +39,9 @@ ul {
 img {
     display: left;
     margin: 0em;
-    border-radius: 130px;
-    width: 55vw;
-    height: 30vw;
+    border-radius: 10vw;
+    width: 45vw;
+    height: 25vw;
 }
 
 h3 {
